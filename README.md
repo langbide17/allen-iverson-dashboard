@@ -1,3 +1,8 @@
+## Live Dashboard
+
+View the live dashboard here:
+
+https://langbide17.github.io/allen-iverson-dashboard/
 # Allen Iverson Analytics Dashboard
 
 This project is an interactive sports analytics dashboard exploring the career statistics of NBA legend Allen Iverson.
